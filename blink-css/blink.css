@@ -1,0 +1,16 @@
+.int {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: grey;
+  width: 220px;
+  height: 60px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 0px;
+  background: linear-gradient(to bottom, #dddddd 0%, #dddddd 50%,#dddddd 50%,rgb(206, 205, 205) 50%,rgb(206, 205, 205) 100%); 
+  box-shadow:
+    0 0 5px 5px hsl(0, 0%, 80%),
+    0 0 0px 10px hsl(0, 0%, 90%),
+    0 0 0px 11px hsl(0, 0%, 3%);
+}
